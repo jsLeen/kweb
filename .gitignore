@@ -1,1 +1,6 @@
 *.txt
+node_modules/
+cases.js
+index.2.1.js
+index.2.2.js
+test/
